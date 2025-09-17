@@ -1,62 +1,74 @@
-# Alexey Lagun
+# Алексей Лагун  
+### **Frontend-разработчик (React + TypeScript)**  
 
-## Contacts:
-
-> - E-mail: alexej.lagun@gmail.com
-> - GitHub: alagun
-> - Discord: alagun
-> - Tel: +375 33 674 08 53
+📍 **Местоположение:** Брест, Беларусь  
+📧 **Контакты:**  
+- Telegram: [@AlexeyLagun](https://t.me/AlexeyLagun)  
+- GitHub: [github.com/alagun](https://github.com/alagun)  
+- Портфолио: [GitHub Pages](https://alagun.github.io/portfolio/)  
 
 ---
 
-## About myself
+## 🛠 **Технические навыки**  
+- **Frontend:** React, TypeScript, JavaScript, Redux, HTML/CSS, SASS  
+- **Инструменты:** Git, Vite, Webpack, Jest, ESLint, Prettier 
+- **API:** REST, RTK Query  
+- **Другое:** Figma, Agile/Scrum  
 
-**I have strong willingness to learn and develop skills in IT sphere**
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,ts,html,css,sass,jest,redux,nodejs,webpack,vite,figma,vscode,npm,git,github,docker,stackoverflow" />
+  </a>
 
-Personal Qualities:
+---
 
-- determined;
-- accurate;
-- cooperative;
-- imeginative.
+## 💼 **Опыт работы**  
 
-## Skills
+### [**EasySales**](https://easysales.pro/) (Май 2024 – Июнь 2025)  
 
-Here will be the skills after the courses RSSchool
+**Frontend-разработчик (React + TypeScript)**  
+- Разрабатывал SPA-приложения для CRM-системы с использованием React 18, TypeScript и Redux Toolkit  
+- Оптимизировал производительность ключевых страниц, что сократило время загрузки на 15%  
+- Реализовал сложные интерактивные компоненты (динамические формы, drag'n'drop интерфейсы)  
+- Активно участвовал в код-ревью, поддерживал высокое качество кода (ESLint, Prettier)  
+- Интеграция с бэкендом через REST API.  
 
-- JS
-- HTML&CSS
-- Git
-- Figma
+### [**SpeechUp**](https://speechup.ru/) (Май 2023 – Май 2024)  
+**Frontend-разработчик (React + TypeScript)**  
+- Разрабатывал интерфейсы образовательной платформы для подготовки к выступлениям  
+- Создал систему интерфейсов для анализа выступлений.  
+- Работа с Redux и формами.  
+- Активно участвовал в код-ревью, поддерживал высокое качество кода (ESLint, Prettier)  
+- Адаптивная вёрстка.  
 
-## Education
+---
 
-- JS, CSS, HTML, Git of courses on Stage0 RSSchool
-- JavaScript https://learn.javascript.ru/
-- Basic JS, CSS, HTML https://ru.code-basics.com/
+## 🎓 **Образование**  
+- Курсы по Frontend-разработке (React/TypeScript) (Coursera, RSShool, Redev).  
+- Самообучение: документация, пет-проекты.  
 
-## Experience
+---
 
-- CV https://alagun.github.io/rsschool-cv/cv
--
--
+## 🚀 **Проекты**  
+- [Портфолио](https://alagun.github.io/portfolio/) – примеры работ.  
+- [GitHub](https://github.com/alagun) – исходный код.  
 
-## Language
+---
 
-- Russian (lvl. C2)
-- English (lvl. A2)
-- Polish (lvl. A2)
-<!--
-**alagun/alagun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 **Дополнительно**  
+- **Английский:** Intermediate (чтение документации).  
+- **Хобби:** Изучение новых технологий.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Доброго времени суток, меня зовут Алексей. Оцениваю себя как Middle Frontend-разработчик.
+- Я программист, думаю что могу написать почти все что угодно, за 2 года разных задач, могу говорить уверенно что
+пока что не зависал с вопросом "как это делать".
+- Занимаюсь спортом
+- Так же силен в общении с людьми могу заинтересовывать и людям интересно со мной общаться, так же как и мне с ними.
+- Люблю путешествовать, кто не любит?
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alagun&theme=city_lights)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alagun&theme=city_lights)   
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alagun&theme=city_lights)
+
